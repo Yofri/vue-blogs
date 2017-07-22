@@ -1,4 +1,4 @@
-# vue-props
+# vue-blogs
 
 > A Vue.js project
 
